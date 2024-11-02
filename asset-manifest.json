@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SuwilanjiTrey/weatherApp/static/css/main.797b2529.css",
-    "main.js": "/SuwilanjiTrey/weatherApp/static/js/main.e267d254.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/SuwilanjiTrey/weatherApp/static/js/453.0ccb7fb4.chunk.js",
-    "index.html": "/SuwilanjiTrey/weatherApp/index.html",
-    "main.797b2529.css.map": "/SuwilanjiTrey/weatherApp/static/css/main.797b2529.css.map",
-    "main.e267d254.js.map": "/SuwilanjiTrey/weatherApp/static/js/main.e267d254.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/SuwilanjiTrey/weatherApp/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/weatherApp/static/css/main.797b2529.css",
+    "main.js": "/weatherApp/static/js/main.a1896aeb.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weatherApp/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/weatherApp/index.html",
+    "main.797b2529.css.map": "/weatherApp/static/css/main.797b2529.css.map",
+    "main.a1896aeb.js.map": "/weatherApp/static/js/main.a1896aeb.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weatherApp/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.797b2529.css",
-    "static/js/main.e267d254.js"
+    "static/js/main.a1896aeb.js"
   ]
 }
